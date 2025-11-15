@@ -60,4 +60,4 @@ workflows:
           filters:
             branches:
               only:
-                - master # 你要打包的分支名字
+                - main # 你要打包的分支名字
