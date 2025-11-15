@@ -1,0 +1,62 @@
+[
+    {
+        "productPrice": "0.99",
+        "productVal": "400",
+        "productAppId": "crsqrsyvybgfiaga",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "1.99",
+        "productVal": "800",
+        "productAppId": "faxwbbqmguhibvsg",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "4.99",
+        "productVal": "2450",
+        "productAppId": "bkadhuwggimljilz",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "6.99",
+        "productVal": "3420",
+        "productAppId": "bkadhuwggimoluma",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "9.99",
+        "productVal": "4900",
+        "productAppId": "mnzvbwecepdpnjxc",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "14.99",
+        "productVal": "7350",
+        "productAppId": "mnzvbwecepdoluma",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "19.99",
+        "productVal": "9800",
+        "productAppId": "ahkijfhilfzeldvy",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "49.99",
+        "productVal": "24500",
+        "productAppId": "kgqoyzikeyenghim",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "69.99",
+        "productVal": "31850",
+        "productAppId": "kgqoyzikeyeoluma",
+        "bundleId": 16788698
+    },
+    {
+        "productPrice": "99.99",
+        "productVal": "49000",
+        "productAppId": "hbuqqnzlhetsjnar",
+        "bundleId": 16788698
+    }
+]

@@ -1,0 +1,22 @@
+PODS:
+  - devicelocale (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - devicelocale (from `.symlinks/plugins/devicelocale/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  devicelocale:
+    :path: ".symlinks/plugins/devicelocale/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  devicelocale: 35ba84dc7f45f527c3001535d8c8d104edd5d926
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: 1a782344d33c12ced0182eeab11e8668d253eb48
+
+COCOAPODS: 1.15.2

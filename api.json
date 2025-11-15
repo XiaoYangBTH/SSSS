@@ -1,0 +1,335 @@
+[
+    {
+        "customPath": "/mgfdncownbwpgtbz/ccvqjhwnzi",
+        "resReplace": {
+            "journalPrompt": "bundleId",
+            "visualPrompt": "userBalance",
+            "videoJournal": "vipExpireTime",
+            "emotionLog": "userBirthday",
+            "creativeFlow": "userName",
+            "expressionBoard": "createUserId",
+            "ideaSeed": "userFriends",
+            "visualDiary": "userId",
+            "storyFragment": "equipmentNo",
+            "dailyCapture": "userImgUrl",
+            "thoughtStream": "userBrief",
+            "creativeJourney": "userType",
+            "memoryPreserve": "userLocation",
+            "voiceMemo": "userVipStatus",
+            "contentCuration": "userPassword",
+            "reflectionTool": "userStatus",
+            "photoMemo": "userEmail",
+            "aestheticFeed": "userGender",
+            "habitTrace": "userAttention",
+            "inspirationNote": "userFans"
+        },
+        "reqReplace": {
+            "moodTracking": "bundleId"
+        },
+        "systemPath": "/sj/user/selectUserIndexList"
+    },
+    {
+        "customPath": "/jcyodztjhz/revra",
+        "resReplace": {
+            "photoStack": "userName",
+            "voiceEntry": "storeFlag",
+            "imageChronicle": "praiseNum",
+            "inspirationDrop": "dynamicType",
+            "vibeBoard": "forwardNum",
+            "photoNarrative": "dynamicImgList",
+            "imageLog": "commentVoList",
+            "mindNote": "createDate",
+            "selfDiscovery": "dynamicImgList",
+            "clarityMoment": "fileTimes",
+            "thoughtPattern": "storeNum",
+            "emotionTone": "videoImgUrl",
+            "ideaCollector": "dynamicContent",
+            "emotionNote": "attentionFlag",
+            "microStory": "dynamicClassify",
+            "emotionWave": "userId",
+            "audioSnippet": "userImgUrl",
+            "innerWorld": "bundleId",
+            "moodInsight": "dynamicId",
+            "commentVoList": {
+                "creativeSnap": "commentId",
+                "ideaThread": "beReplyUserName",
+                "thoughtTrail": "beReplyUserId",
+                "solitudeHour": "replyContent",
+                "photoMood": "bundleId",
+                "photoEssay": "dynamicId",
+                "insightMap": "praiseNum",
+                "quietCorner": "replyUserId",
+                "dreamDraft": "replyUserImgUrl",
+                "journalSpace": "beReplyCommentId",
+                "mentalFocus": "replyUserName",
+                "thoughtNest": "beReplyContent"
+            },
+            "calmReminder": "dynamicTitle",
+            "notionSketch": "commentNum"
+        },
+        "reqReplace": {
+            "focusSession": "bundleId",
+            "microEntry": "size",
+            "stillnessSpace": "dynamicClassify",
+            "solitudeMoment": "selectVersion",
+            "routineMarker": "current",
+            "mindSnapshot": "selectType",
+            "personalArchive": "dynamicType",
+            "creativeMindset": "userId"
+        },
+        "systemPath": "/sj/dynamic/selectDynamicList"
+    },
+    {
+        "customPath": "/pzonuiz/lmwcakmrdnm",
+        "reqReplace": {
+            "imagePrompt": "dynamicId"
+        },
+        "systemPath": "/sj/dynamic/updateDynamicStore"
+    },
+    {
+        "customPath": "/hoidxrgwkpubz/xxyeqzikuyj",
+        "reqReplace": {
+            "imageStream": "dynamicId",
+            "emotionFragment": "beHandleUserId",
+            "memoryThread": "beHandleUserImg",
+            "voiceReflection": "beHandleUserName",
+            "focusNote": "hanldeType"
+        },
+        "systemPath": "/sj/user/updateUserRelation"
+    },
+    {
+        "customPath": "/qqnwcuz/dijaehjt",
+        "resReplace": {
+            "messageUserVoList": {
+                "innerTone": "title",
+                "imagePulse": "sendUserName",
+                "photoMoment": "receiveUserName",
+                "stillFrame": "content",
+                "aestheticNote": "sendUserId",
+                "creativeMark": "createDate",
+                "thoughtEcho": "messageId",
+                "quietMind": "receiveUserImg",
+                "mentalPause": "sendUserImgUrl",
+                "emotionPulse": "receiveUserId"
+            },
+            "creativityFlow": "messageUserVoList"
+        },
+        "reqReplace": {
+            "ideaMoment": "receiveUserId",
+            "photoPulse": "bundleId"
+        },
+        "systemPath": "/sj/message/selectMessageInfo"
+    },
+    {
+        "customPath": "/ymovxzzvlz/nhirmm",
+        "resReplace": {
+            "memoryRipple": "historyNum",
+            "quietNote": "userAttention",
+            "creativeMap": "userFans",
+            "thoughtRipple": "userLocation",
+            "userDynamicVoList": {
+                "photoStack": "userName",
+                "voiceEntry": "storeFlag",
+                "imageChronicle": "praiseNum",
+                "inspirationDrop": "dynamicType",
+                "vibeBoard": "forwardNum",
+                "photoNarrative": "dynamicImgList",
+                "imageLog": "commentVoList",
+                "mindNote": "createDate",
+                "selfDiscovery": "dynamicImgList",
+                "clarityMoment": "fileTimes",
+                "thoughtPattern": "storeNum",
+                "emotionTone": "videoImgUrl",
+                "ideaCollector": "dynamicContent",
+                "emotionNote": "attentionFlag",
+                "microStory": "dynamicClassify",
+                "emotionWave": "userId",
+                "audioSnippet": "userImgUrl",
+                "innerWorld": "bundleId",
+                "moodInsight": "dynamicId",
+                "commentVoList": {
+                    "creativeSnap": "commentId",
+                    "ideaThread": "beReplyUserName",
+                    "thoughtTrail": "beReplyUserId",
+                    "solitudeHour": "replyContent",
+                    "photoMood": "bundleId",
+                    "photoEssay": "dynamicId",
+                    "insightMap": "praiseNum",
+                    "quietCorner": "replyUserId",
+                    "dreamDraft": "replyUserImgUrl",
+                    "journalSpace": "beReplyCommentId",
+                    "mentalFocus": "replyUserName",
+                    "thoughtNest": "beReplyContent"
+                },
+                "calmReminder": "dynamicTitle",
+                "notionSketch": "commentNum"
+            },
+            "emotionColor": "userName",
+            "vibeJournal": "userDynamicVoList",
+            "photoThought": "userId",
+            "dailyStill": "userFriends",
+            "audioReflection": "userEmail",
+            "calmLog": "attentionFlag",
+            "emotionMark": "likeNum",
+            "creativeTrace": "userGender",
+            "memoryDrop": "userBirthday",
+            "photoSketch": "userImgUrl",
+            "visualFocus": "userBrief"
+        },
+        "reqReplace": {
+            "imageEntry": "userId"
+        },
+        "systemPath": "/sj/user/selectUserInfo"
+    },
+    {
+        "customPath": "/qfsbdzwbfpdmjz/jmcphzrrw",
+        "resReplace": {
+            "aestheticTone": "equipmentNo",
+            "thoughtPrompt": "userName",
+            "quietMoment": "userStatus",
+            "aestheticPath": "userImgUrl",
+            "voiceTrace": "userGender",
+            "photoReflection": "token",
+            "imageIdea": "vipExpireTime",
+            "mentalSnapshot": "userBirthday",
+            "photoMind": "userLocation",
+            "focusPulse": "userEmail",
+            "imageStill": "userId",
+            "emotionSketch": "userType",
+            "personalLog": "userBrief",
+            "journalCue": "bundleId"
+        },
+        "reqReplace": {},
+        "systemPath": "/sj/user/getUseInfo"
+    },
+    {
+        "customPath": "/qrqakfjphfewz/awwwhdyhknh",
+        "reqReplace": {},
+        "systemPath": "/sj/user/selectUserBalance"
+    },
+    {
+        "customPath": "/zdavysezzz/bnqfakjwswufxlm",
+        "resReplace": {
+            "aestheticTone": "equipmentNo",
+            "thoughtPrompt": "userName",
+            "quietMoment": "userStatus",
+            "aestheticPath": "userImgUrl",
+            "voiceTrace": "userGender",
+            "photoReflection": "token",
+            "imageIdea": "vipExpireTime",
+            "mentalSnapshot": "userBirthday",
+            "photoMind": "userLocation",
+            "focusPulse": "userEmail",
+            "imageStill": "userId",
+            "emotionSketch": "userType",
+            "personalLog": "userBrief",
+            "journalCue": "bundleId"
+        },
+        "reqReplace": {
+            "memorySketch": "password",
+            "ideaLoop": "bundleId",
+            "focusRoutine": "userEmail",
+            "visualLine": "type"
+        },
+        "systemPath": "/sj/user/emailLogin"
+    },
+    {
+        "customPath": "/wdrhsaz/wojtrigpq",
+        "resReplace": {
+            "creativePulse": "liveTitle",
+            "focusBoard": "userImgUrl",
+            "innerSignal": "liveId",
+            "emotionRoutine": "liveCoverImg",
+            "photoDrop": "bundleId",
+            "thoughtFlow": "videoTimes",
+            "ideaBubble": "liveLocation",
+            "creativeLog": "liveStatus",
+            "imageThread": "videoUrl",
+            "aestheticThought": "userName",
+            "userList": {
+                "dailyFrame": "liveUserId",
+                "mindCue": "userImgUrl",
+                "emotionFeed": "liveId",
+                "emotionVibe": "bundleId",
+                "imageBubble": "userId",
+                "quietStory": "userName"
+            },
+            "memoryPath": "createDate",
+            "dailyMoment": "liveIncome",
+            "memoryCue": "liveUserNum",
+            "imageWave": "userId",
+            "creativeMood": "userList",
+            "photoCuration": "liveTime"
+        },
+        "reqReplace": {
+            "personalNote": "liveStatus",
+            "imageRipple": "selectType",
+            "journalNote": "size",
+            "moodDraft": "bundleId",
+            "dailyFocus": "current"
+        },
+        "systemPath": "/sj/live/selectLivePage"
+    },
+    {
+        "customPath": "/aurlzivz/ecoebqtiy",
+        "resReplace": {
+            "photoMap": "userName",
+            "quietReflection": "attentionFlag",
+            "thoughtDiary": "userId",
+            "imageNest": "userBrief",
+            "emotionFocus": "userImgUrl"
+        },
+        "reqReplace": {
+            "moodCurve": "selectType"
+        },
+        "systemPath": "/sj/user/selectUserRelation"
+    },
+    {
+        "customPath": "/geeurzlgz/obafohe",
+        "resReplace": {
+            "aestheticDrift": "addFlag",
+            "dailyTrace": "activityLable",
+            "mindWave": "userName",
+            "imagePrompting": "activityPhoneNum",
+            "activityUserVoList": {
+                "reflectionLoop": "userName",
+                "memoryFlow": "userId",
+                "imageTone": "userImgUrl",
+                "thoughtMark": "attentionFlag"
+            },
+            "aestheticStream": "activityDetailsTime",
+            "photoEntry": "activityUserVoList",
+            "ideaSpark": "userId",
+            "ideaRipple": "activityId",
+            "calmMoment": "activityIntroduce",
+            "mindDrift": "activityDate",
+            "imageClue": "activityTitle",
+            "moodFeed": "userImgUrl",
+            "emotionFrame": "activityCoverImg",
+            "visualNote": "activityUserNum",
+            "emotionInsight": "activityLocation"
+        },
+        "reqReplace": {
+            "thoughtPath": "bundleId",
+            "solitudeDrop": "activityId",
+            "dailyPrompt": "selectType",
+            "creativeNote": "beSelectUserId",
+            "mentalTrace": "activityLable"
+        },
+        "systemPath": "/sj/activity/selectActivityPage"
+    },
+    {
+        "customPath": "/ayvwuynntz/xjvytdddgey",
+        "reqReplace": {
+            "mentalCue": "activityId"
+        },
+        "systemPath": "/sj/activity/joinQuitActivity"
+    },
+    {
+        "customPath": "/daiastqbvtdz/wjafsj",
+        "reqReplace": {
+            "photoClue": "bundleId"
+        },
+        "systemPath": "/sj/activity/selectAcLabel"
+    }
+]

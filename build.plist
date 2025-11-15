@@ -1,0 +1,17 @@
+<plist version="1.0">
+<dict>
+	<key>method</key>
+	<string>app-store</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.oluma.app</key>
+		<string>match AppStore com.oluma.app</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>teamID</key>
+	<string>3M3DG27Z4K</string>
+</dict>
+</plist>
